@@ -1,2 +1,2 @@
 # judul-buatlagi
-disini aku coba bwat lagi
+disini aku coba bwat branch ke2
